@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   },
   description:
     "Ibrahim Bahaly is a passionate Front End Developer specializing in modern, high-performance web development.",
-  metadataBase: new URL("https://aafrzl.my.id"),
+  metadataBase: new URL("https://ibrabahaly.my.id"),
   openGraph: {
     title: {
       template: "Ibrahim Bahaly | %s",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     },
     description:
       "Ibrahim Bahaly is a passionate Front End Developer specializing in modern, high-performance web development.",
-    url: "https://aafrzl.my.id",
+    url: "https://ibrabahaly.my.id",
     siteName: "Ibrahim Bahaly",
     images: [
       {
